@@ -41,4 +41,3 @@ module Inverter (
    //not u1 (ZN, X) ;
 
 endmodule
-
